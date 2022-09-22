@@ -17,6 +17,8 @@ git clone (url ssh)		(clone de dépot git)
 git pull			(récup le projet du repo à jours)
 git stash			(enregistre le travail dans la mémoire tampon)
 git stash apply			(applique le contenu de la mémoire tampon sur le travail)
+git merge (nom de branche)	(fusionne 2 branches)
+git revert (nom)		(reviens à l'encien commit)
 
 
 
