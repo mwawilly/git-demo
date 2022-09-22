@@ -1,0 +1,22 @@
+git init			(initialise git sur le dossier)
+git status			(check du contenu git)
+git add	(nom du fichier)	(ajoute le fichier au repo)
+git add .			(ajoute tous les fichiers au repo)
+git commit -m " message "	(commit ton git avec un message)
+git log				(check les log)
+git show (cha1)			(visionne le repo en question)
+git remote add origine (url)	(defini le dépot distant)
+git remote -v			(montre sur quel dépot on est)
+git remote remove (nom)		(retire le dépot distant choisis)
+git push			(envoi le git sur le dépot (github))
+git branch (nom)		(créer une branche)
+git checkout (nom)		(bascule sur la branche choisis)
+git branch			(regarde les branches)
+git diff (nom)			(check les diff dans le texte)
+git clone (url ssh)		(clone de dépot git)
+git pull			(récup le projet du repo à jours)
+git stash			(enregistre le travail dans la mémoire tampon)
+git stash apply			(applique le contenu de la mémoire tampon sur le travail)
+
+
+
